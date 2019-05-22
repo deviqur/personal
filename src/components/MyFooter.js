@@ -12,10 +12,10 @@ class MyAppBar extends React.Component{
                         <div className="single-footer-widget">
                           <h4>About Me</h4>
                           <p>
-                            We have tested a number of registry fix and clean utilities and present our top 3 list on our site for your convenience.
+                            I am Devi Qurnia Sari
                           </p>
                           <p className="footer-text">{/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                            Copyright © All rights reserved | This template is made with <i className="fa fa-heart-o" aria-hidden="true" /> by Devi
+                            Copyright © All rights reserved is made with <i className="fa fa-heart-o" aria-hidden="true" /> by Devi
                             {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}</p>
                         </div>
                       </div>
@@ -24,7 +24,6 @@ class MyAppBar extends React.Component{
                           <h4>Newsletter</h4>
                           <p>Stay updated with our latest trends</p>
                           <div className id="mc_embed_signup">
-                           
                           </div>
                         </div>
                       </div>
